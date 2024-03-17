@@ -1,0 +1,43 @@
+.container1 {
+    background-color: #f4f4f4;
+    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    text-align: center;
+}
+
+.details {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p {
+    line-height: 0.5;
+}
+
+
+.details img {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 25px;
+}
+
+.dis {
+
+
+    display: flex;
+    flex-direction: column;
+
+
+}
